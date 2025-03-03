@@ -5,21 +5,21 @@ This Power BI Dashboard provides an in-depth analysis of key statistics from the
 
 ## 🔍 Key Insights & Features
 
-⚽ Match Performance Analysis
+## ⚽ Match Performance Analysis
 Possession Rate Comparison: Analyzes ball possession percentages for home and away teams.
-Shot Attempts: Tracks total and on-target attempts by both teams.
-Fouls & Discipline: Breakdown of yellow and red cards for each team.
-Penalties & Offsides: A summary of penalties awarded and offside calls.
+# Shot Attempts: Tracks total and on-target attempts by both teams.
+# Fouls & Discipline: Breakdown of yellow and red cards for each team.
+# Penalties & Offsides: A summary of penalties awarded and offside calls.
 
 ##  📉 Statistical Breakdown
-Team-wise Analysis: Comparison of individual team performances.
-Match Attendance: Number of spectators per stadium.
-Referee Details: Information about referees officiating matches.
-Home vs. Away Trends: How teams performed when playing at home vs away.
+# Team-wise Analysis: Comparison of individual team performances.
+# Match Attendance: Number of spectators per stadium.
+# Referee Details: Information about referees officiating matches.
+# Home vs. Away Trends: How teams performed when playing at home vs away.
 
 ## 📂 Files Included
-fifa_qatar_2022_dashboard.pbix – The Power BI report file.
-README.md – This documentation file.
+# fifa_qatar_2022_dashboard.pbix – The Power BI report file.
+# README.md – This documentation file.
 
  ## 📥 How to Use
 Clone or Download this repository.
