@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing match statistics from the FIFA World
 ## Features & Insights
 
 **Match Performance**
-- Possession rate comparison between **home** and **away** teams
+- Possession rate comparison between **Home** and **Away** teams
 - Total and on-target shot attempts per match
 - Yellow and red card breakdown by team
 - Penalties awarded and offside calls per game
